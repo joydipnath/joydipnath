@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Joydip Nath</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**joydipnath/joydipnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/joydipnath)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iam_joydip/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://joydipnath.medium.com/)
 
-Here are some ideas to get you started:
+### Welcome to my profile! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=joydipnath)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software developer and Machine Learning practitioner. I love programming, practicing calisthenics and playing table tennis.
+
+
+<img align="right" alt="GIF" src="https://github.com/joydipnath/joydipnath/blob/main/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something using Machine Learning.
+- 🚀 I’m currently learning Spark and some mathematical concepts related to Machine Learning. 
+- 💬 Ask me about anything, I am happy to help.
+- 📝 I regulary write articles on [medium](https://joydipnath.medium.com).
+<!-- - 📫 How to reach me: ;
+- 📝 [Resume](). -->
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joydipnath&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydipnath&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
+</p>
+
+
+
