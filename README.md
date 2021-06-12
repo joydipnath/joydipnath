@@ -26,8 +26,8 @@ I am a software developer and Machine Learning practitioner. I love programming,
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-PHP              45 mins         ████████████████▓░░░░░░░░   66.64 % 
-Blade Template   21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.80 % 
+PHP              25 mins         █████████████▒░░░░░░░░░░░   53.84 % 
+Blade Template   20 mins         ███████████▒░░░░░░░░░░░░░   44.82 % 
 ```
 <!--END_SECTION:waka-->
 
