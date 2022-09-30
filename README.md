@@ -6,7 +6,7 @@
 
 ### Welcome to my profile! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=joydipnath)
 
-I am a software developer and Machine Learning practitioner. I love programming, practicing calisthenics and playing table tennis.
+I am a Data Engineer and Machine Learning practitioner. I love programming, practicing calisthenics and playing table tennis.
 
 
 <img align="right" alt="GIF" src="https://github.com/joydipnath/joydipnath/blob/main/coding.gif?raw=true" width="408" height="318" />
